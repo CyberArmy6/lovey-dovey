@@ -4,7 +4,7 @@ function revealText() {
 
   // Show the message
   const wishBox = document.getElementById("wishBox");
-  const birthdayText = document.getElementById("BText");
+  const BText = document.getElementById("BText");
 
   wishBox.classList.remove("hidden");
 
